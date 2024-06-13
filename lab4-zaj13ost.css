@@ -1,0 +1,10 @@
+.container{
+    text-align: center;
+}
+#c{
+    display: inline-block;
+    border: 1px solid #444;
+    /* width: ; */
+    /* height: ; */
+    background-color: bisque;
+}
